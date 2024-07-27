@@ -1,0 +1,1 @@
+$('').appendTo($('.mim-aside'));
